@@ -1,52 +1,777 @@
 [
-{"name":"Boehringer Ingelheim","country":"Germany","priority":"A","sponsor":4,"careers":"https://jobs.boehringer-ingelheim.com/","roles":["QC Specialist","QA Specialist","Quality Operations","GMP Specialist"]},
-{"name":"Bayer","country":"Germany","priority":"A","sponsor":4,"careers":"https://talent.bayer.com/careers","roles":["QA Specialist","QC Specialist","Quality Operations","GMP Specialist"]},
-{"name":"Fresenius","country":"Germany","priority":"A","sponsor":4,"careers":"https://www.fresenius.com/careers","roles":["QC Specialist","QA Specialist","Quality Control","Sterile Manufacturing"]},
-{"name":"Merck","country":"Germany","priority":"A","sponsor":4,"careers":"https://careers.merckgroup.com/","roles":["QC Analyst","QA Specialist","GMP Specialist","Laboratory Specialist"]},
-{"name":"CSL Behring","country":"Germany","priority":"A","sponsor":4,"careers":"https://www.cslbehring.com/careers","roles":["QC","QA","Aseptic Manufacturing","GMP"]},
-{"name":"Sanofi","country":"Germany","priority":"A","sponsor":4,"careers":"https://jobs.sanofi.com/en/germany","roles":["QA","QC","GMP","Quality Systems"]},
-{"name":"AbbVie","country":"Germany","priority":"B","sponsor":4,"careers":"https://careers.abbvie.com/","roles":["QA","QC","Quality Compliance"]},
-{"name":"STADA","country":"Germany","priority":"B","sponsor":4,"careers":"https://www.stada.com/career","roles":["QA","QC","GMP","Quality Systems"]},
-{"name":"IDT Biologika","country":"Germany","priority":"A","sponsor":4,"careers":"https://idt-biologika.com/careers/","roles":["QC","QA","Vaccine Manufacturing","GMP"]},
-{"name":"Vetter Pharma","country":"Germany","priority":"A","sponsor":4,"careers":"https://www.vetter-pharma.com/en/careers/","roles":["QC","QA","Aseptic Manufacturing","Injectables"]},
-{"name":"Aenova Group","country":"Germany","priority":"A","sponsor":4,"careers":"https://www.aenova-group.com/en/career/","roles":["QC","QA","GMP","Production Quality"]},
-{"name":"BioNTech","country":"Germany","priority":"B","sponsor":4,"careers":"https://www.biontech.com/int/en/home/careers.html","roles":["QA","QC","GMP","Manufacturing Quality"]},
-{"name":"Takeda","country":"Germany","priority":"B","sponsor":4,"careers":"https://www.takeda.com/careers/","roles":["QA","QC","Quality Systems","GMP"]},
-{"name":"Roche","country":"Germany","priority":"B","sponsor":4,"careers":"https://careers.roche.com/","roles":["QC","QA","GMP","Laboratory"]},
-{"name":"Novartis","country":"Germany","priority":"B","sponsor":3,"careers":"https://www.novartis.com/careers","roles":["QC","QA","Quality Compliance"]},
-{"name":"Pfizer","country":"Germany","priority":"B","sponsor":3,"careers":"https://www.pfizer.com/about/careers","roles":["QA","QC","Quality Operations"]},
-{"name":"Teva","country":"Germany","priority":"A","sponsor":4,"careers":"https://www.teva.de/karriere.html","roles":["QC","QA","GMP","Laboratory"]},
-{"name":"Siegfried","country":"Germany","priority":"B","sponsor":3,"careers":"https://www.siegfried.ch/en/career/","roles":["QC","QA","Analytical","GMP"]},
-{"name":"Evotec","country":"Germany","priority":"C","sponsor":3,"careers":"https://www.evotec.com/en/careers","roles":["QC","Analytical","Quality Systems"]},
-{"name":"Dr. Reddy's","country":"Germany","priority":"B","sponsor":4,"careers":"https://careers.drreddys.com/","roles":["QC","QA","GMP","Quality Control"]},
-{"name":"Adamed Pharma","country":"Poland","priority":"A","sponsor":4,"careers":"https://www.adamed.com/en/career","roles":["QC","QA","GMP","Laboratory"]},
-{"name":"Polpharma","country":"Poland","priority":"A","sponsor":4,"careers":"https://polpharma.pl/en/why-polpharma/current-job-offers/","roles":["QC","QA","GMP","Laboratory"]},
-{"name":"Bioton","country":"Poland","priority":"A","sponsor":4,"careers":"https://bioton.com/en/career/","roles":["QA","QC","GMP","Biotech Quality"]},
-{"name":"Zentiva","country":"Poland","priority":"A","sponsor":4,"careers":"https://www.zentiva.com/careers","roles":["QC","QA","Manufacturing Quality"]},
-{"name":"Sandoz","country":"Poland","priority":"A","sponsor":4,"careers":"https://www.sandoz.com/careers","roles":["QC","QA","GMP","Quality Systems"]},
-{"name":"Teva Poland","country":"Poland","priority":"B","sponsor":4,"careers":"https://www.teva.pl/kariera/","roles":["QC","QA","GMP"]},
-{"name":"Polfa Tarchomin","country":"Poland","priority":"B","sponsor":3,"careers":"https://www.polfa-tarchomin.com.pl/kariera/","roles":["QC","QA","Production Quality"]},
-{"name":"Celon Pharma","country":"Poland","priority":"B","sponsor":3,"careers":"https://celonpharma.com/career/","roles":["QC","QA","Analytical","GMP"]},
-{"name":"Mabion","country":"Poland","priority":"B","sponsor":3,"careers":"https://mabion.eu/career/","roles":["QC","QA","Biotech","GMP"]},
-{"name":"Hasco-Lek","country":"Poland","priority":"B","sponsor":3,"careers":"https://hasco-lek.pl/kariera/","roles":["QC","QA","GMP"]},
-{"name":"Krka Poland","country":"Poland","priority":"B","sponsor":3,"careers":"https://www.krka.pl/en/careers/","roles":["QA","QC","Quality Systems"]},
-{"name":"USP Zdrowie","country":"Poland","priority":"C","sponsor":3,"careers":"https://uspzdrowie.pl/kariera/","roles":["QA","QC","Quality"]},
-{"name":"Curtis Health Caps","country":"Poland","priority":"C","sponsor":2,"careers":"https://www.curtishealthcaps.pl/","roles":["QC","QA","Laboratory"]},
-{"name":"Polpharma Biologics","country":"Poland","priority":"A","sponsor":4,"careers":"https://polpharmabiologics.com/careers/","roles":["QC","QA","Biologics","GMP"]},
-{"name":"Viatris","country":"Poland","priority":"B","sponsor":4,"careers":"https://www.viatris.com/en/careers","roles":["QC","QA","Quality Compliance"]},
-{"name":"Gedeon Richter Romania","country":"Romania","priority":"S","sponsor":4,"careers":"https://www.gedeonrichter.com/ro/en/career","roles":["QA Specialist","QC","GMP","Quality Systems"]},
-{"name":"Zentiva Romania","country":"Romania","priority":"A","sponsor":4,"careers":"https://www.zentiva.com/careers","roles":["QC","QA","GMP","Manufacturing Quality"]},
-{"name":"Terapia / Sun Pharma","country":"Romania","priority":"A","sponsor":3,"careers":"https://www.therapia.ro/cariere/","roles":["QC","QA","Laboratory","GMP"]},
-{"name":"Antibiotice Iasi","country":"Romania","priority":"A","sponsor":3,"careers":"https://www.antibiotice.ro/cariere/","roles":["QC","QA","GMP","Sterile Manufacturing"]},
-{"name":"Sandoz Romania","country":"Romania","priority":"A","sponsor":4,"careers":"https://www.sandoz.com/careers","roles":["QC","QA","Quality Systems"]},
-{"name":"STADA Romania","country":"Romania","priority":"A","sponsor":4,"careers":"https://jobs.stada.com/Romania/go/Romania/9736101/","roles":["QA","QC","GMP","Quality Systems"]},
-{"name":"Biofarm","country":"Romania","priority":"B","sponsor":3,"careers":"https://www.biofarm.ro/cariere/","roles":["QC","QA","Laboratory"]},
-{"name":"Rompharm","country":"Romania","priority":"B","sponsor":3,"careers":"https://www.rompharm.ro/","roles":["QC","QA","GMP","Sterile"]},
-{"name":"Labormed Pharma","country":"Romania","priority":"B","sponsor":3,"careers":"https://www.zentiva.com/careers","roles":["QC","QA","Manufacturing Quality"]},
-{"name":"Infomed Fluids","country":"Romania","priority":"A","sponsor":3,"careers":"https://www.infomedfluids.ro/","roles":["QC","QA","Injectable","Infusion Quality"]},
-{"name":"Qatar Pharma","country":"Qatar","priority":"A","sponsor":4,"careers":"https://www.qatarpharma.com/","roles":["QC","QA","GMP","Manufacturing Quality"]},
-{"name":"AstraZeneca Qatar","country":"Qatar","priority":"B","sponsor":4,"careers":"https://careers.astrazeneca.com/","roles":["QA","Quality Compliance","GMP"]},
-{"name":"Novartis Qatar","country":"Qatar","priority":"B","sponsor":3,"careers":"https://www.novartis.com/careers","roles":["QA","Quality Systems","GMP"]},
-{"name":"Amgen Qatar","country":"Qatar","priority":"B","sponsor":3,"careers":"https://www.amgen.com/careers","roles":["QA","Quality Systems","GMP"]},
-{"name":"Julphar","country":"Qatar","priority":"A","sponsor":4,"careers":"https://julphar-careers.com/","roles":["QC","QA","GMP","Laboratory"]}
+  {
+    "name": "Boehringer Ingelheim",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://jobs.boehringer-ingelheim.com/",
+    "roles": [
+      "QC Specialist",
+      "QA Specialist",
+      "Quality Operations",
+      "GMP Specialist"
+    ]
+  },
+  {
+    "name": "Bayer",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://talent.bayer.com/careers",
+    "roles": [
+      "QA Specialist",
+      "QC Specialist",
+      "Quality Operations",
+      "GMP Specialist"
+    ]
+  },
+  {
+    "name": "Fresenius",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.fresenius.com/careers",
+    "roles": [
+      "QC Specialist",
+      "QA Specialist",
+      "Quality Control",
+      "Sterile Manufacturing"
+    ]
+  },
+  {
+    "name": "Merck",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://careers.merckgroup.com/",
+    "roles": [
+      "QC Analyst",
+      "QA Specialist",
+      "GMP Specialist",
+      "Laboratory Specialist"
+    ]
+  },
+  {
+    "name": "CSL Behring",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.cslbehring.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Aseptic Manufacturing",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Sanofi",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://jobs.sanofi.com/en/germany",
+    "roles": [
+      "QA",
+      "QC",
+      "GMP",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "AbbVie",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://careers.abbvie.com/",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality Compliance"
+    ]
+  },
+  {
+    "name": "STADA",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://www.stada.com/career",
+    "roles": [
+      "QA",
+      "QC",
+      "GMP",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "IDT Biologika",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://idt-biologika.com/careers/",
+    "roles": [
+      "QC",
+      "QA",
+      "Vaccine Manufacturing",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Vetter Pharma",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.vetter-pharma.com/en/careers/",
+    "roles": [
+      "QC",
+      "QA",
+      "Aseptic Manufacturing",
+      "Injectables"
+    ]
+  },
+  {
+    "name": "Aenova Group",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.aenova-group.com/en/career/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Production Quality"
+    ]
+  },
+  {
+    "name": "BioNTech",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://www.biontech.com/int/en/home/careers.html",
+    "roles": [
+      "QA",
+      "QC",
+      "GMP",
+      "Manufacturing Quality"
+    ]
+  },
+  {
+    "name": "Takeda",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://www.takeda.com/careers/",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality Systems",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Roche",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://careers.roche.com/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Novartis",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.novartis.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Compliance"
+    ]
+  },
+  {
+    "name": "Pfizer",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.pfizer.com/about/careers",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality Operations"
+    ]
+  },
+  {
+    "name": "Teva",
+    "country": "Germany",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.teva.de/karriere.html",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Siegfried",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.siegfried.ch/en/career/",
+    "roles": [
+      "QC",
+      "QA",
+      "Analytical",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Evotec",
+    "country": "Germany",
+    "priority": "C",
+    "sponsor": 3,
+    "careers": "https://www.evotec.com/en/careers",
+    "roles": [
+      "QC",
+      "Analytical",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "Dr. Reddy's",
+    "country": "Germany",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://careers.drreddys.com/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Quality Control"
+    ]
+  },
+  {
+    "name": "Adamed Pharma",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.adamed.com/en/career",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Polpharma",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://polpharma.pl/en/why-polpharma/current-job-offers/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Bioton",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://bioton.com/en/career/",
+    "roles": [
+      "QA",
+      "QC",
+      "GMP",
+      "Biotech Quality"
+    ]
+  },
+  {
+    "name": "Zentiva",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.zentiva.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Manufacturing Quality"
+    ]
+  },
+  {
+    "name": "Sandoz",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.sandoz.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "Teva Poland",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://www.teva.pl/kariera/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Polfa Tarchomin",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.polfa-tarchomin.com.pl/kariera/",
+    "roles": [
+      "QC",
+      "QA",
+      "Production Quality"
+    ]
+  },
+  {
+    "name": "Celon Pharma",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://celonpharma.com/career/",
+    "roles": [
+      "QC",
+      "QA",
+      "Analytical",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Mabion",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://mabion.eu/career/",
+    "roles": [
+      "QC",
+      "QA",
+      "Biotech",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Hasco-Lek",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://hasco-lek.pl/kariera/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Krka Poland",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.krka.pl/en/careers/",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "USP Zdrowie",
+    "country": "Poland",
+    "priority": "C",
+    "sponsor": 3,
+    "careers": "https://uspzdrowie.pl/kariera/",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality"
+    ]
+  },
+  {
+    "name": "Curtis Health Caps",
+    "country": "Poland",
+    "priority": "C",
+    "sponsor": 2,
+    "careers": "https://www.curtishealthcaps.pl/",
+    "roles": [
+      "QC",
+      "QA",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Polpharma Biologics",
+    "country": "Poland",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://polpharmabiologics.com/careers/",
+    "roles": [
+      "QC",
+      "QA",
+      "Biologics",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Viatris",
+    "country": "Poland",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://www.viatris.com/en/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Compliance"
+    ]
+  },
+  {
+    "name": "Gedeon Richter Romania",
+    "country": "Romania",
+    "priority": "S",
+    "sponsor": 4,
+    "careers": "https://www.gedeonrichter.com/ro/en/career",
+    "roles": [
+      "QA Specialist",
+      "QC",
+      "GMP",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "Zentiva Romania",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.zentiva.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Manufacturing Quality"
+    ]
+  },
+  {
+    "name": "Terapia / Sun Pharma",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://www.therapia.ro/cariere/",
+    "roles": [
+      "QC",
+      "QA",
+      "Laboratory",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Antibiotice Iasi",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://www.antibiotice.ro/cariere/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Sterile Manufacturing"
+    ]
+  },
+  {
+    "name": "Sandoz Romania",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.sandoz.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "STADA Romania",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://jobs.stada.com/Romania/go/Romania/9736101/",
+    "roles": [
+      "QA",
+      "QC",
+      "GMP",
+      "Quality Systems"
+    ]
+  },
+  {
+    "name": "Biofarm",
+    "country": "Romania",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.biofarm.ro/cariere/",
+    "roles": [
+      "QC",
+      "QA",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Rompharm",
+    "country": "Romania",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.rompharm.ro/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Sterile"
+    ]
+  },
+  {
+    "name": "Labormed Pharma",
+    "country": "Romania",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.zentiva.com/careers",
+    "roles": [
+      "QC",
+      "QA",
+      "Manufacturing Quality"
+    ]
+  },
+  {
+    "name": "Infomed Fluids",
+    "country": "Romania",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://www.infomedfluids.ro/",
+    "roles": [
+      "QC",
+      "QA",
+      "Injectable",
+      "Infusion Quality"
+    ]
+  },
+  {
+    "name": "Qatar Pharma",
+    "country": "Qatar",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://www.qatarpharma.com/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Manufacturing Quality"
+    ]
+  },
+  {
+    "name": "AstraZeneca Qatar",
+    "country": "Qatar",
+    "priority": "B",
+    "sponsor": 4,
+    "careers": "https://careers.astrazeneca.com/",
+    "roles": [
+      "QA",
+      "Quality Compliance",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Novartis Qatar",
+    "country": "Qatar",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.novartis.com/careers",
+    "roles": [
+      "QA",
+      "Quality Systems",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Amgen Qatar",
+    "country": "Qatar",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://www.amgen.com/careers",
+    "roles": [
+      "QA",
+      "Quality Systems",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Julphar",
+    "country": "Qatar",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://julphar-careers.com/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Laboratory"
+    ]
+  },
+  {
+    "name": "Octapharma Austria",
+    "country": "Austria",
+    "priority": "S",
+    "sponsor": 4,
+    "careers": "https://careers.octapharma.com/",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Operations",
+      "GMP",
+      "Plasma",
+      "Sterile Manufacturing"
+    ]
+  },
+  {
+    "name": "AOP Health",
+    "country": "Austria",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://www.aop-health.com/global_en/careers/jobs/",
+    "roles": [
+      "QA",
+      "Quality Assurance",
+      "Quality Systems",
+      "GMP",
+      "Quality Compliance"
+    ]
+  },
+  {
+    "name": "EVER Pharma Austria",
+    "country": "Austria",
+    "priority": "A",
+    "sponsor": 4,
+    "careers": "https://jobs.everpharma.com/en/",
+    "roles": [
+      "QC",
+      "QA",
+      "GMP",
+      "Quality Control",
+      "Sterile Manufacturing"
+    ]
+  },
+  {
+    "name": "Fresenius Kabi Austria",
+    "country": "Austria",
+    "priority": "S",
+    "sponsor": 4,
+    "careers": "https://karriere-fresenius-kabi.at/en/jobs/",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Control",
+      "GMP",
+      "Sterile Manufacturing",
+      "Injectables"
+    ]
+  },
+  {
+    "name": "Sanochemia",
+    "country": "Austria",
+    "priority": "S",
+    "sponsor": 3,
+    "careers": "https://www.sanochemia.com/en/carreer/",
+    "roles": [
+      "QC",
+      "Quality Control",
+      "QA",
+      "Analytical",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Sigmapharm",
+    "country": "Austria",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://job.sigmapharm.at/",
+    "roles": [
+      "QC",
+      "QA",
+      "Validation",
+      "Qualification",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Kwizda Pharma",
+    "country": "Austria",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://karriere.kwizda.at/jobs",
+    "roles": [
+      "QC",
+      "Quality Control",
+      "QA",
+      "Pharma",
+      "GMP"
+    ]
+  },
+  {
+    "name": "Gebro Pharma",
+    "country": "Austria",
+    "priority": "A",
+    "sponsor": 3,
+    "careers": "https://www.karriere.at/jobs/gebro",
+    "roles": [
+      "QC",
+      "QA",
+      "Production Quality",
+      "GMP",
+      "Pharmatechnology"
+    ]
+  },
+  {
+    "name": "Croma-Pharma",
+    "country": "Austria",
+    "priority": "B",
+    "sponsor": 3,
+    "careers": "https://at.croma.at/home-pt-br/careers/",
+    "roles": [
+      "QA",
+      "QC",
+      "Quality Assurance",
+      "GMP",
+      "Medical Devices",
+      "Injectables"
+    ]
+  },
+  {
+    "name": "Boehringer Ingelheim Austria",
+    "country": "Austria",
+    "priority": "S",
+    "sponsor": 4,
+    "careers": "https://www.boehringer-ingelheim.com/at/karriere",
+    "roles": [
+      "QC",
+      "QA",
+      "Quality Operations",
+      "GMP",
+      "Biopharmaceutical Manufacturing"
+    ]
+  }
 ]
